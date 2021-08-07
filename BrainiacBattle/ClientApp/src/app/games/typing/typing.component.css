@@ -1,0 +1,9 @@
+.typing{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+.header{
+    align-self: center;
+}
+

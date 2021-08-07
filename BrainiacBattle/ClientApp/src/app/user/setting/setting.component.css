@@ -1,0 +1,17 @@
+.container {
+  width: 95%;
+  height: 800px;
+  padding: 10px;
+  margin: 20px auto;
+  position: relative;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+form {
+  margin-top: 50px;
+}
+
+input[type=submit] {
+  margin-top: 10px;
+}
